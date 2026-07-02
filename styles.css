@@ -1,0 +1,61 @@
+h1 {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}  
+
+p {
+    color: #34495e;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+body {
+    background-color: #ecf0f1;
+}
+
+h2 {
+    color: #2980b9;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+}
+
+li {
+    color: #34495e;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.logotipo img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    obejct-fit: contain;
+    position: absolute;
+    left: 54%;
+    top: 30px;
+}
+
+header { 
+    background: #bdc3c7; 
+    padding: 1em; 
+    text-align: center; 
+}
+
+footer { 
+    background: #bdc3c7; 
+    padding: 1em; 
+    text-align: center; 
+}
+
+a {
+    color: rgb(54, 125, 206);
+    text-decoration: dotted;
+    font-family: 'Arial', sans-serif;
+}
